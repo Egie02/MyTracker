@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Expo
+**/.expo/
+**/dist/
+**/.metro-health-check*
+
+# Build / OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
