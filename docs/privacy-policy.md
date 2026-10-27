@@ -1,8 +1,8 @@
-# MYTracker Privacy Policy
+# MTracker Privacy Policy
 
-**Last updated:** September 1, 2026
+**Last updated:** October 27, 2026
 
-MYTracker ("the app") is a personal money tracker. This policy explains what data the app handles on your device.
+MTracker ("the app") is a personal money tracker. This policy explains what data the app handles on your device.
 
 ## Summary
 
@@ -45,4 +45,4 @@ We may update this policy. The "Last updated" date will change when we do.
 
 ## Contact
 
-For questions about this policy, contact the developer via the email listed on the Google Play store listing.
+For questions about this policy, email [zzapreygie@gmail.com](mailto:zzapreygie@gmail.com).
